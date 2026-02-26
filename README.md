@@ -1,5 +1,9 @@
 # DAR-COIN (DAR)
 
+![DAR-COIN Logo](https://raw.githubusercontent.com/kongali1720/Dar-Coin/main/DAR-COIN-logo.png)
+
+DAR-COIN is a global ERC-20 utility token…
+
 DAR-COIN (DAR) is a global ERC-20 utility token built on Ethereum.
 
 ## 🌍 Vision
